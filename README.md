@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=200&section=header&text=Poojan%20Anghan&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Python%20%26%20React.js%20%7C%20Backend%20Architect&descAlignY=55&descAlign=50" alt="Poojan Anghan Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=28&amp;pause=1000&amp;color=3B82F6&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Poojan+Anghan;Software+Engineer;Python+%2B+React.js;Backend+Architect" alt="Poojan Anghan Header" />
   
   <br />
   
