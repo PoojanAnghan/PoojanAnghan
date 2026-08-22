@@ -1,26 +1,26 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=200&section=header&text=Poojan%20Anghan&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Python%20%26%20React.js%20|%20Backend%20Architect&descAlignY=55&descAlign=50" alt="Poojan Anghan Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=3b82f6&amp;height=200&amp;section=header&amp;text=Poojan%20Anghan&amp;fontSize=50&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Software%20Engineer%20|%20Python%20%26%20React.js%20|%20Backend%20Architect&amp;descAlignY=55&amp;descAlign=50" alt="Poojan Anghan Header" />
   
   <br />
   
   <a href="mailto:anghanpoojan66@gmail.com">
-    <img src="https://img.shields.io/badge/Email-anghanpoojan66%40gmail.com-2563eb?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-anghanpoojan66%40gmail.com-2563eb?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
   </a>
   <a href="https://pujan-anghan.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-pujan--anghan.vercel.app-171717?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-pujan--anghan.vercel.app-171717?style=for-the-badge&amp;logo=vercel&amp;logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/poojan-a-447073340/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
   </a>
   <a href="https://github.com/PoojanAnghan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-PoojanAnghan-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-PoojanAnghan-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PoojanAnghan&label=Profile%20Views&color=3b82f6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=PoojanAnghan&amp;label=Profile%20Views&amp;color=3b82f6&amp;style=flat-square" alt="Profile Views" />
 </div>
 
 ---
@@ -42,7 +42,7 @@ With **3+ years** of hands-on experience, I take full technical ownership of the
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,react,nextjs,js,ts,postgres,mysql,docker,azure,tailwind,git,github,vscode,postman&theme=dark&perline=7" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,react,nextjs,js,ts,postgres,mysql,docker,azure,tailwind,git,github,vscode,postman&amp;theme=dark&amp;perline=7" />
   </a>
 </div>
 
@@ -87,17 +87,17 @@ I focus on solving real business problems with measurable engineering results:
   <table border="0">
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=PoojanAnghan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Poojan Anghan's GitHub Stats" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=PoojanAnghan&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" alt="Poojan Anghan's GitHub Stats" width="100%" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoojanAnghan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoojanAnghan&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top Languages" width="100%" />
       </td>
     </tr>
   </table>
   
   <br />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PoojanAnghan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PoojanAnghan&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
